@@ -1,0 +1,12 @@
+// Vendor components
+@import "vendors/bootstrap/bootstrap.css";
+
+// default pages setting
+@import "setting/includes";
+@import "layouts/base";
+
+// pages setting
+@import "pages/includes";
+
+// common pages setting
+@import "common/includes";
