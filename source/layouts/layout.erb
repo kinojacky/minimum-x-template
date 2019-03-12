@@ -17,13 +17,17 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="google" content="notranslate">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favorite/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="images/favorite/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favorite/favicon-32x32.png">
+
     <meta name="robots" content="none">
 
     <link rel="shortcut icon" href="images/favicon.ico">
     <title><%= current_page.data.title %></title>
 
     <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "vendor" %>
+    <%= javascript_include_tag "vendors" %>
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -36,7 +40,6 @@
       <%= yield %>
     </div>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <%= javascript_include_tag "side" %>
+    <%= javascript_include_tag "site" %>
   </body>
 </html>
