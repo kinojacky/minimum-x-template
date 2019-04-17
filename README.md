@@ -2,18 +2,27 @@
 
 This is a ready make Middleman frondend template. The pakage come with common stylesheets and javascript plug-ins.
 
-### Stylesheets:
+## Project code name: Cosmos Firebird
+
+## System Requirement
+
+- Middleman v4.2.1
+- Ruby v2.5.0
+
+## Stylesheets:
 
 - Bootstrap v4.2.1
-- Font Awesome v4.7
-- Ionicons v2.0.0
+- Font Awesome v5.8.1
+- Ionicons v4.5.5
 - Basic lightbox
 - Owl Carousel v2.3.4
 - animate v3.5.2
 
-### JavaScript
+## JavaScript
 
 - Bootstrap v4.2.1
+- Font Awesome v5.8.1
+- Ionicons v4.5.5
 - jQuery.counterup.js v2.1.0
 - jQuery Easing v1.4.1
 - Isotope PACKAGED v3.0.5
@@ -24,8 +33,3 @@ This is a ready make Middleman frondend template. The pakage come with common st
 - Popper v1.14.7
 - Waypoints v4.0.1
 - WOW.js - v1.3.0
-
-# System Requirement
-
-- Middleman v4.2.1
-- Ruby v2.5.0
