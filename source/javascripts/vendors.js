@@ -2,7 +2,6 @@
 //= require ./vendors/popper/popper
 //= require ./vendors/bootstrap/bootstrap.min
 //= require ./vendors/fontawesome/all
-//= require ./vendors/ionicons/ionicons
 //= require ./vendors/counterup/counterup.min
 //= require ./vendors/easing/easing
 //= require ./vendors/isotope/isotope.pkgd
